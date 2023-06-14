@@ -1,0 +1,19 @@
+[ {
+  "id" : 3,
+  "descripcion" : "Helado",
+  "precio" : 50.0,
+  "stock" : 13,
+  "categoria" : "CONGELADOS"
+}, {
+  "id" : 1,
+  "descripcion" : "Lechuga",
+  "precio" : 50.0,
+  "stock" : 3,
+  "categoria" : "FRUTAS"
+}, {
+  "id" : 2,
+  "descripcion" : "Zapallo",
+  "precio" : 30.0,
+  "stock" : 4,
+  "categoria" : "VERDURAS"
+} ]

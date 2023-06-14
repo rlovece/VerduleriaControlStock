@@ -1,0 +1,35 @@
+[ {
+  "id" : 1,
+  "cliente" : {
+    "id" : 7,
+    "nombre" : "Ruth",
+    "apellido" : "Lovece",
+    "dni" : "33273764",
+    "telefono" : "2234229556"
+  },
+  "producto" : {
+    "id" : 1,
+    "descripcion" : "Lechuga",
+    "precio" : 50.0,
+    "stock" : 3,
+    "categoria" : "FRUTAS"
+  },
+  "cant" : 2
+}, {
+  "id" : 2,
+  "cliente" : {
+    "id" : 1,
+    "nombre" : "Clark ",
+    "apellido" : "Kent",
+    "dni" : "12345678",
+    "telefono" : "2236035877"
+  },
+  "producto" : {
+    "id" : 2,
+    "descripcion" : "Zapallo",
+    "precio" : 30.0,
+    "stock" : 4,
+    "categoria" : "VERDURAS"
+  },
+  "cant" : 2
+} ]
